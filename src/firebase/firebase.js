@@ -4,12 +4,12 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAUfqJI404HDz7rG116pwYKea1sVtOHi-E",
-    authDomain: "instagram-02-95622.firebaseapp.com",
-    projectId: "instagram-02-95622",
-    storageBucket: "instagram-02-95622.appspot.com",
-    messagingSenderId: "564415325821",
-    appId: "1:564415325821:web:b92cf7cd6cd4d962d7b314"
+  apiKey: "AIzaSyCM1lyMWSbH5exMUE0uZ2eqklM17S14_LA",
+  authDomain: "instagramclone-cc94e.firebaseapp.com",
+  projectId: "instagramclone-cc94e",
+  storageBucket: "instagramclone-cc94e.appspot.com",
+  messagingSenderId: "94996434965",
+  appId: "1:94996434965:web:a39d9ee39e6074ae5a3e1c"
 };
 
 const app = initializeApp(firebaseConfig);
