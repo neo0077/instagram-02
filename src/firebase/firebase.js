@@ -4,8 +4,8 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCM1lyMWSbH5exMUE0uZ2eqklM17S14_LA",
-  authDomain: "instagramclone-cc94e.firebaseapp.com",
+  apiKey: "AIzaSyDxThwgZ6Hi5AQLp_Iwq_6uoqnNdZnHJ3U",
+  authDomain: "",
   projectId: "instagramclone-cc94e",
   storageBucket: "instagramclone-cc94e.appspot.com",
   messagingSenderId: "94996434965",
